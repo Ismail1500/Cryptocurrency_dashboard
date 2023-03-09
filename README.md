@@ -66,10 +66,10 @@ Visit <a href="https://ismailshaikh-cryptodashboard.netlify.app">Cryptocurrency-
 - To run this project locally, use the following command in your CLI:
 
 ```bash
-  git clone https://github.com/cryptocurrency-dashboard.git
-```
+  git clone https://github.com/Ismail1500/Cryptocurrency_dashboard
+  
 - Open your favorite code editor and run locally!
-```bash
+
   npm install
   npm start
 ```
