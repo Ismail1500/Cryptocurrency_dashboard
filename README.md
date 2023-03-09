@@ -1,11 +1,7 @@
-<h1 align="center">
-  <br />
-  <a href="https://readers-space.netlify.app/">
-      <img src="https://user-images.githubusercontent.com/63870995/209679174-1bada3c7-643d-45e7-a1af-2a9759edd869.png" width="200"/>
-  </a>
-  <br/>
-  Cryptocurrency Dashboard
-  <h3 align="center">
+
+
+ # Cryptocurrency Dashboard
+ 
     Discover Cryptos, charts, and MarketCaps !
 </h3>
 
@@ -31,7 +27,7 @@
 <br />
 Visit <a href="https://ismailshaikh-cryptodashboard.netlify.app">Cryptocurrency-dashboard</a> and discover cryptos, charts, and MarketCaps!
 
-![DashBoard home page](https://user-images.githubusercontent.com/63870995/210148826-04032249-b0a7-4958-8a53-d1a5953bab92.png)
+![DashBoard home page](https://github.com/Ismail1500/Cryptocurrency_dashboard/blob/main/crypto%20image.png)
 
 <br />
 <!-- FEATURES -->
