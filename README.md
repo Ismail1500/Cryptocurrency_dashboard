@@ -17,7 +17,7 @@ Visit <a href="https://ismailshaikh-cryptodashboard.netlify.app">Cryptocurrency-
 <img align="center"  src="https://github.com/Ismail1500/Cryptocurrency_dashboard/blob/main/crypto%20image.png"/>
 
 ### Image 02
-<img align="center" src="https://github.com/Ismail1500/ResumeBuilder/blob/main/image2.png"/>
+<img align="center" src="https://github.com/Ismail1500/Cryptocurrency_dashboard/blob/main/Screenshot%202.png"/>
 
 ### Image 03
 <img align="center" src="https://github.com/Ismail1500/ResumeBuilder/blob/main/image3.png"/>
