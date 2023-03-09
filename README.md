@@ -14,7 +14,7 @@
 Visit <a href="https://ismailshaikh-cryptodashboard.netlify.app">Cryptocurrency-dashboard</a> and discover cryptos, charts, and MarketCaps!
 
 ### Image 01
-<img align="center"  src="https://github.com/Ismail1500/ResumeBuilder/blob/main/image1.png"/>
+<img align="center"  src="https://github.com/Ismail1500/Cryptocurrency_dashboard/blob/main/crypto%20image.png"/>
 
 ### Image 02
 <img align="center" src="https://github.com/Ismail1500/ResumeBuilder/blob/main/image2.png"/>
