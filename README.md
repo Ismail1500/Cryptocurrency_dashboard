@@ -3,22 +3,8 @@
  # Cryptocurrency Dashboard
  
     Discover Cryptos, charts, and MarketCaps !
-</h3>
-
-<br/>
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-    <summary>Content</summary>
-    <ol>
-        <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#technology-languages-used">Technology/ Languages Used</a></li>
-        <li><a href="#how-to-run-locally">How to Run Locally</a></li>
-        <li><a href="#how-to-contribute">How to Contribute</a></li>
-    </ol>
-</details>
 
 <!-- Project Introduction -->
 ## **Introduction**
